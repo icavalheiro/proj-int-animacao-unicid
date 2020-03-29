@@ -1,0 +1,43 @@
+Projeto:
+Elemental de fogo capaz de lançar bolas de fogo e queimar tudo a sua volta :D
+
+Cenário:
+Um depósito, com varias caixas de madeira/papelão em inumeras prateleiras, lugar meio escuro e muito grande com um teto bem alto e diversas salas com coisas guardadas.
+
+Referencias:
+Gobliteration quest do World of Warcraft
+Ragnaros
+https://www.youtube.com/watch?v=gtnY-MvRpmU
+https://www.youtube.com/watch?v=LlBSMc4REMA
+https://www.youtube.com/watch?v=xuM07vBHAlg
+(mais na pasta de referencias, incluindo para o cenario)
+
+Palavras-chafe:
+fire
+Elemental
+Ragnaros
+fireball
+flame
+deposit
+storage
+
+Modulos Cenário:
+parede1
+parede2
+parede3
+canto_parede
+canto_invertido_parede
+teto
+prateleira1
+prateleira2
+caixa1
+caixa2
+caixa3
+porta_simples
+porta_garagem
+piso1
+piso2
+piso3
+piso4
+
+
